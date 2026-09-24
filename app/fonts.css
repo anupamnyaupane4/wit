@@ -1,0 +1,68 @@
+@font-face {
+  font-family: 'Bodoni Moda';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/fonts/witt-0.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Bodoni Moda';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/fonts/witt-1.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Bodoni Moda';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(/fonts/witt-2.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'IBM Plex Mono';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/fonts/witt-3.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'IBM Plex Mono';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(/fonts/witt-4.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(/fonts/witt-5.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(/fonts/witt-6.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url(/fonts/witt-7.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(/fonts/witt-8.ttf) format('truetype');
+}
+
+@font-face{font-family:'Roboto Slab';font-style:normal;font-weight:400;font-display:swap;src:url(/fonts/roboto-slab-400.ttf) format('truetype')}
+@font-face{font-family:'Roboto Slab';font-style:normal;font-weight:500;font-display:swap;src:url(/fonts/roboto-slab-500.ttf) format('truetype')}
+@font-face{font-family:'Roboto Slab';font-style:normal;font-weight:600;font-display:swap;src:url(/fonts/roboto-slab-600.ttf) format('truetype')}
+@font-face{font-family:'Roboto Slab';font-style:normal;font-weight:700;font-display:swap;src:url(/fonts/roboto-slab-700.ttf) format('truetype')}

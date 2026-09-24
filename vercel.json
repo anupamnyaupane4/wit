@@ -1,0 +1,4 @@
+{
+  "buildCommand": "corepack pnpm exec next build",
+  "outputDirectory": ".next"
+}

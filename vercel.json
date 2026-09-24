@@ -1,4 +1,5 @@
 {
-  "buildCommand": "corepack pnpm exec next build",
+  "framework": "nextjs",
+  "buildCommand": "rm -rf .next dist && corepack pnpm exec next build",
   "outputDirectory": ".next"
 }
